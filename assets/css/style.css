@@ -65,15 +65,14 @@ thead {
 
 #monitor {
     background-image: url(./../../img/monitor.jpg);
-    text-align: center;
     color: white;
     height: 200px;
     width: 200px;
+    margin-bottom: 10px;
 }
 
 #grafico {
     background-image: url(./../../img/graph.jpg);
-    text-align: center;
     color: white;
     height: 200px;
     width: 200px;
@@ -85,6 +84,6 @@ thead {
 }
 
 td {
-    margin left: 0;
     width: 1%;
+    margin-left: 0;
 }
