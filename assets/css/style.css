@@ -17,7 +17,7 @@ header {
 
 main {
     margin-left: 90px;
-    margin-right: 0;
+    margin-right: 90px;
 }
 
 .primo {
@@ -44,5 +44,15 @@ h1 {
 }
 
 figure {
+
     margin: 0;
+}
+
+#evidenziatore {
+
+    background-color: #ffff00;
+}
+
+ul {
+    padding: 20px;
 }
