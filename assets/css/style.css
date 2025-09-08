@@ -56,3 +56,17 @@ figure {
 ul {
     padding: 20px;
 }
+
+.cell {
+    background-color: white;
+}
+
+tbody {
+    background-color: #b1e4f2;
+}
+
+thead {
+    background-color: #4ea0ff;
+    padding: auto;
+    margin: 200px;
+}
