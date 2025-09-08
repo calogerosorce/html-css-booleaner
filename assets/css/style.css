@@ -16,11 +16,12 @@ header {
 }
 
 main {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 90px;
+    margin-right: 0;
 }
 
 .primo {
+
 
     color: #808080;
 
@@ -30,4 +31,18 @@ main {
 
     color: #20a9e5;
 
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+#data {
+    margin-top: 0;
+    color: #808080;
+
+}
+
+figure {
+    margin: 0;
 }
