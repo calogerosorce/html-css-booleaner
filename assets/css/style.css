@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+header {
+    background: #4ea0ff;
+    background-image: url(./../../img/pattern.png);
+    background-size: contain;
+
+
+}
